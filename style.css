@@ -363,8 +363,8 @@ body {
 
 .deco {
   position: absolute;
-  width: 100px;
-  height: 100px;
+  width: 80px;
+  height: 80px;
   object-fit: contain;
   animation: floaty 4s ease-in-out infinite alternate;
   filter: drop-shadow(0 4px 8px rgba(255, 100, 200, 0.5));
@@ -664,3 +664,4 @@ html {
   color: white;
   transform: scale(1.05);
 }
+
